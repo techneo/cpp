@@ -1,6 +1,6 @@
 #include <iostream>
 
-class MyBaseClass
+class MyBaseClass //when there is a pure virtual function, it becomes a abstract class
 {
 public:
     int a;
@@ -13,7 +13,7 @@ public:
     {
         std::cout << "Base function\n";
     }
-    virtual void subfunc(void) = 0;
+    virtual void subfunc(void) = 0; // a pure virtual function that derived classes have to implement
     void check_a(void)
     {
         std::cout << "a= " << a << "\n";
