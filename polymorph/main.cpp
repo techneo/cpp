@@ -18,6 +18,10 @@ public:
     {
         std::cout << "a= " << a << "\n";
     }
+    virtual ~MyBaseClass(void)
+    {
+        
+    }
 };
 
 class NewClass : public MyBaseClass
