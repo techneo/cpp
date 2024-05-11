@@ -1,0 +1,6 @@
+LSM trees offer great write throughput 
+and being so popular in implementation 
+of so many NoSql stores, we are seeing 
+lots of optimizations as well. This paper 
+suggests improvements on the overhead of 
+bloom filters in LSM Trees
