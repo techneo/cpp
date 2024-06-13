@@ -1,3 +1,3 @@
-/workspaces/cpp/hello/CMakeFiles/rebuild_cache.dir
-/workspaces/cpp/hello/CMakeFiles/edit_cache.dir
-/workspaces/cpp/hello/CMakeFiles/simple_example.dir
+D:/Work/cpp/hello/CMakeFiles/simple_example.dir
+D:/Work/cpp/hello/CMakeFiles/edit_cache.dir
+D:/Work/cpp/hello/CMakeFiles/rebuild_cache.dir
