@@ -84,3 +84,8 @@ main(void)
     delete c3;
     return 0;
 }
+
+void newmain(void)
+{
+    std::cout<<"hello";
+}
