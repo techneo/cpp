@@ -2,13 +2,12 @@
 #include <set>
 
 int main() {
-    //declare a set
+ 
     std::array<int,5> a = {1,3,4,6,7};
     //add elements not posible
     //a.insert(3);
     
 
-    //set is sorted by default
     for (auto el : a)
     {
         std::cout << el << "\n";
